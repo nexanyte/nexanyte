@@ -17,4 +17,6 @@ I'm a passionate self-taught newbie developer & Computer-Science student.
 
 #### Bloom! Oh Crimson Lotus, bloom 🌸
 
-![](./Images/Profile-Banner.gif)
+<p align="center">
+  <img src="./Images/Profile-Banner.gif" />
+</p>
